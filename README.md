@@ -1,6 +1,6 @@
 # Rh + Financeiro para empresas
 
-Interface de web para administrar uma empresa.
+Interface de web consumindo uma [API](https://github.com/Juaozim/FinanceiroAPI) feita por mim em Spring Boot para administrar uma empresa.
 
 ## Principais dependências
   - vuetify
