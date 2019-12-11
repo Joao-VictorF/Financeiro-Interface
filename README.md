@@ -1,6 +1,6 @@
-# Nutri WEB
+# Rh + Financeiro para empresas
 
-Interface de web para os nutricionistas.
+Interface de web para administrar uma empresa.
 
 ## Principais dependências
   - vuetify
